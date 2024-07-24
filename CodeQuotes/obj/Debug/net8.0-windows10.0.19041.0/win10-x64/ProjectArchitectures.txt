@@ -1,0 +1,1 @@
+E:\Other\Course\.NET MAUI\CodeQuotes\CodeQuotes\CodeQuotes.csproj;x64
